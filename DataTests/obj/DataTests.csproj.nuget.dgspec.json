@@ -4,14 +4,14 @@
     "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj": {}
   },
   "projects": {
-    "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj": {
+    "D:\\Code\\bible-bytes\\bible-bytes\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj",
-        "projectName": "DataTests",
-        "projectPath": "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj",
+        "projectUniqueName": "D:\\Code\\bible-bytes\\bible-bytes\\Context\\Context.csproj",
+        "projectName": "Context",
+        "projectPath": "D:\\Code\\bible-bytes\\bible-bytes\\Context\\Context.csproj",
         "packagesPath": "C:\\Users\\kaiserbergin\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\obj\\",
+        "outputPath": "D:\\Code\\bible-bytes\\bible-bytes\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,86 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview5.19224.8, )",
+              "autoReferenced": true
+            },
+            "RavenDB.Client": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    },
+    "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj",
+        "projectName": "DataTests",
+        "projectPath": "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\DataTests.csproj",
+        "packagesPath": "C:\\Users\\kaiserbergin\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\bible-bytes\\bible-bytes\\DataTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kaiserbergin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Code\\bible-bytes\\bible-bytes\\Context\\Context.csproj": {
+                "projectPath": "D:\\Code\\bible-bytes\\bible-bytes\\Context\\Context.csproj"
+              },
+              "D:\\Code\\bible-bytes\\bible-bytes\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Code\\bible-bytes\\bible-bytes\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.0.1, )"
@@ -56,6 +136,22 @@
               "target": "Package",
               "version": "[3.0.0-preview5.19224.8, )",
               "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "RavenDB.Client": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "RavenDB.Embedded": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "RavenDB.TestDriver": {
+              "target": "Package",
+              "version": "[4.2.0, )"
             },
             "xunit": {
               "target": "Package",
@@ -70,7 +166,63 @@
             "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    },
+    "D:\\Code\\bible-bytes\\bible-bytes\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\bible-bytes\\bible-bytes\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\Code\\bible-bytes\\bible-bytes\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\kaiserbergin\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\bible-bytes\\bible-bytes\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kaiserbergin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
         }
       }
     }

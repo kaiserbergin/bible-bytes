@@ -1,0 +1,9 @@
+D:\Code\bible-bytes\bible-bytes\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+D:\Code\bible-bytes\bible-bytes\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Code\bible-bytes\bible-bytes\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Code\bible-bytes\bible-bytes\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+D:\Code\bible-bytes\bible-bytes\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+D:\Code\bible-bytes\bible-bytes\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+D:\Code\bible-bytes\bible-bytes\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+D:\Code\bible-bytes\bible-bytes\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+D:\Code\bible-bytes\bible-bytes\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

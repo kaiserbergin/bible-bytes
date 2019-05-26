@@ -1,0 +1,17 @@
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T05:08:12.4436760Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 4172, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.9 GBytes Available Memory, 7.928 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T05:08:16.9192236Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T05:08:16.9199105Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T05:08:56.9231371Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 22956, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.453 GBytes Available Memory, 7.481 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T05:09:04.5346616Z, 24, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'InitializeAsync_1' stats to become stable, so we skip analyzing it for now.
+2019-05-26T05:09:32.2561713Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T05:09:32.2567167Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)

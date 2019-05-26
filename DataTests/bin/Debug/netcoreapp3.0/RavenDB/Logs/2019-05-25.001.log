@@ -1,0 +1,144 @@
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:41:36.1947044Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 7032, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.524 GBytes Available Memory, 7.552 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:41:41.0681512Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:41:41.0689159Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:47:41.4411146Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 2596, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.477 GBytes Available Memory, 7.505 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:47:45.7993335Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:47:45.8000531Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:49:55.4219840Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 19664, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.644 GBytes Available Memory, 7.672 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:49:59.7997316Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:49:59.8004882Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:51:00.6916596Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 19604, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.935 GBytes Available Memory, 7.963 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:51:04.9792842Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:51:04.9798226Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:55:47.5590092Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 19708, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.874 GBytes Available Memory, 7.902 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:55:51.9497022Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:55:51.9503837Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:56:27.3093914Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 20340, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.864 GBytes Available Memory, 7.892 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:56:31.8216275Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:56:31.8223095Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T01:57:18.4369410Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 17060, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.876 GBytes Available Memory, 7.904 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T01:57:22.9123035Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T01:57:22.9130096Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:12:29.3991327Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 6460, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.729 GBytes Available Memory, 7.757 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:12:32.5372402Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:12:32.5378323Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:13:25.7062749Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 18412, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.7 GBytes Available Memory, 7.728 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:13:28.7366823Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:13:28.7375074Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:15:40.0912939Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 10664, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.634 GBytes Available Memory, 7.662 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:15:43.1504295Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:15:43.1514803Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:17:00.6451951Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 19020, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.775 GBytes Available Memory, 7.803 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:17:05.1327980Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:17:05.1334561Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:23:06.5391407Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 7432, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.314 GBytes Available Memory, 7.342 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:23:09.6402170Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:23:09.6408278Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:24:13.0426845Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 464, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.416 GBytes Available Memory, 7.444 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:24:16.1960033Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:24:16.1966363Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:31:14.4495781Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 17668, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.48 GBytes Available Memory, 7.508 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:31:18.9199757Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:31:18.9205905Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:35:40.6414234Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 21432, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.318 GBytes Available Memory, 7.346 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:35:44.8394327Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:35:44.8400712Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:36:26.3126445Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 14824, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.372 GBytes Available Memory, 7.4 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:36:30.7946819Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:36:30.7953166Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:38:23.6277477Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 11300, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.364 GBytes Available Memory, 7.391 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:38:28.0455910Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:38:28.0461528Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-05-26T04:58:02.9689156Z, 1, Operations, Server, Raven.Server.Program,  Build 42009, Version 4.2, SemVer 4.2.0, Commit aa4fa39
+ PID 19632, 64 bits, 16 Cores, Arch: X64
+ 15.931 GBytes Physical Memory, 7.613 GBytes Available Memory, 7.641 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+librvnpal Expected Version: 42007, librvnpal Current Version: 42007
+2019-05-26T04:58:07.4474829Z, 1, Operations, Server, Raven.Server.Program, Server has shut down
+2019-05-26T04:58:07.4480776Z, 2, Operations, Server, Raven.Server.Program, Server is about to shut down (interactive mode)
